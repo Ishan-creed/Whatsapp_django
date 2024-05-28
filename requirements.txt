@@ -1,1 +1,2 @@
-pywhatkit 
+Django==4.0.3
+pywhatkit==5.2
